@@ -7,22 +7,19 @@ A powerful XSS scanner made in python 3.7<br/>
 
 Requirements: <br/>
 
-<li> BeautifulSoup4 </li>
+<li>asyncio
+aiohttp
+pyppeteer
+beautifulsoup4
+lxml
+requests</li>
 
-```bash
-pip install bs4
-```
-<li> requests </li>
-
-```bash
-pip install requests
-```
-<li> python 3.7 </li>
+<li> python 3.12 </li>
 <br/>
 Commands:
 
 ```bash
-git clone https://github.com/menkrep1337/XSSCon
+git clone https://github.com/Admin9961/XSSCon2
 chmod 755 -R XSSCon
 cd XSSCon
 python3 xsscon.py --help 
