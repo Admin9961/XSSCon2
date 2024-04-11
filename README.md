@@ -14,6 +14,7 @@ beautifulsoup4
 lxml
 requests
 colorama
+backoff
 </li>
 
 <li> python 3.12 </li>
