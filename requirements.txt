@@ -4,3 +4,4 @@ pyppeteer
 beautifulsoup4
 lxml
 requests
+colorama
