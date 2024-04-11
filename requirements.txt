@@ -1,0 +1,6 @@
+asyncio
+aiohttp
+pyppeteer
+beautifulsoup4
+lxml
+requests
