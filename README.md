@@ -49,7 +49,3 @@ python3 xsscon.py --help
 * Multiprocessing support.✔️
 * XSS DOM based support via headless browser added by NC ✔️
 
-* Sorry for my bad english 
-* if you run xsscon on the win10 terminal you will get an untidy output
-* now it doesn't support DOM
-
